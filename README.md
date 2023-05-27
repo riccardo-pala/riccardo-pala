@@ -6,17 +6,18 @@ Hello! My name is [Riccardo Pala], and I am a recently graduated computer engine
 
 Here are some of the main projects I have worked on:
 
-1. [**ACM RecSys2022 Challenge**](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team): Fashion Domain Session-Based Recommender System.
-2. [**eCommerce Website**](https://github.com/riccardo-pala/eCommerce-Website): Dynamic pricing system basing on continuous learning | Online Learning Applications project.
-3. [**CLup**](https://github.com/riccardo-pala/CLup): Booking service for grocery shopping | Software Engineering II project.
-4. [**MuSeek**](https://github.com/riccardo-pala/MuSeek): Android application for musicians | Bachelor's Thesis project.
+- [**ACM RecSys2022 Challenge**](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team): Fashion Domain Session-Based Recommender System.
+- [**eCommerce Website**](https://github.com/riccardo-pala/eCommerce-Website): Dynamic pricing system basing on continuous learning | Online Learning Applications project.
+- [**CLup**](https://github.com/riccardo-pala/CLup): Booking service for grocery shopping | Software Engineering II project.
+- [**MuSeek**](https://github.com/riccardo-pala/MuSeek): Android application for musicians | Bachelor's Thesis project.
 
 # Contacts
 
 You can reach me through the following channels:
 
-- **Email**: [riccardo.pala98@outlook.it]
-- **LinkedIn**: [https://www.linkedin.com/in/riccardo-pala/]
+- [**Outlook**](riccardo.pala98@outlook.it)
+- [**GMail**](riccardo.pala98@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/riccardo-pala/)
 
 If you would like to get in touch, please don't hesitate to reach out.
 
