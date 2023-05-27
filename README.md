@@ -16,7 +16,7 @@ Here are some of the main projects I have worked on:
 You can reach me through the following channels:
 
 - [**Outlook**](riccardo.pala98@outlook.it)
-- [**GMail**](riccardo.pala98@gmail.com)
+- [**Gmail**](riccardo.pala98@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/riccardo-pala/)
 
 If you would like to get in touch, please don't hesitate to reach out.
