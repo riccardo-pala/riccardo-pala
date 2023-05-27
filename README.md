@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Riccardo, and I am a recently graduated computer engineer from Politecnico di Milano. With a strong academic background, I am passionate about leveraging technology to solve complex problems and create innovative solutions. Throughout my academic journey, I have gained knowledge and skills in various domains such as Calculus, Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems, Web and Mobile Applications Development, Game Theory, Python, Java, and C++ Programming, as well as Algorithms and Data Structures.
+Hello! My name is Riccardo, and I am a recently graduated computer engineer from Politecnico di Milano. With a strong academic background, I possess a genuine enthusiasm and curiosity for exploring all sides of computer science fields. Throughout my academic journey, I have gained knowledge and skills in various domains such as Calculus, Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems, Web and Mobile Applications Development, Game Theory, Python, Java, and C++ Programming, as well as Algorithms and Data Structures.
 
 # Main Projects
 
