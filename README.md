@@ -6,8 +6,7 @@ Hello! My name is Riccardo, and I am a recently graduated computer engineer from
 
 Here are some of the main projects I have worked on:
 
-- [**Financial RAG Assistant**](https://github.com/riccardo-pala/financial-rag): Engineered a privacy-first, 100% local Retrieval-Augmented Generation (RAG)
-system for sensitive financial documents.
+- [**Financial RAG Assistant**](https://github.com/riccardo-pala/financial-rag): 100% local RAG system for sensitive financial documents.
 - [**ACM RecSys2022 Challenge**](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team): Fashion Domain Session-Based Recommender System.
 - [**eCommerce Website**](https://github.com/riccardo-pala/eCommerce-Website): Dynamic pricing system basing on continuous learning | Online Learning Applications project.
 - [**CLup**](https://github.com/riccardo-pala/CLup): Booking service for grocery shopping | Software Engineering II project.
