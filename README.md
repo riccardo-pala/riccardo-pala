@@ -1,26 +1,27 @@
-# About Me
+# Riccardo Pala
 
-Hello! My name is Riccardo, and I am a recently graduated computer engineer from Politecnico di Milano. With a strong academic background, I possess a genuine enthusiasm and curiosity for exploring all sides of computer science fields. Throughout my academic journey, I have gained knowledge and skills in various domains such as Calculus, Software Engineering, Artificial Intelligence, Machine Learning, Deep Learning, Recommender Systems, Web and Mobile Applications Development, Game Theory, Python, Java, and C++ Programming, as well as Algorithms and Data Structures.
+**Software Engineer | Applied AI & RAG Systems**
 
-# Main Projects
+I build backend services and distributed systems, with a focus on Java and Spring Boot. My work also includes applied AI, semantic retrieval and data-intensive applications.
 
-Here are some of the main projects I have worked on:
+## Areas of focus
 
-- [**Financial RAG Assistant**](https://github.com/riccardo-pala/financial-rag): 100% local RAG system for sensitive financial documents.
-- [**ACM RecSys2022 Challenge**](https://github.com/KingPowa/Rec_Sys_2022_Boston_Team): Fashion Domain Session-Based Recommender System.
-- [**eCommerce Website**](https://github.com/riccardo-pala/eCommerce-Website): Dynamic pricing system basing on continuous learning | Online Learning Applications project.
-- [**CLup**](https://github.com/riccardo-pala/CLup): Booking service for grocery shopping | Software Engineering II project.
-- [**MuSeek**](https://github.com/riccardo-pala/MuSeek): Android application for musicians | Bachelor's Thesis project.
+- Backend development with Java, Spring Boot, REST APIs and distributed systems
+- Event-driven services with Apache Kafka
+- Applied AI: RAG, embeddings, semantic retrieval and PostgreSQL/pgvector
+- Python and machine learning for personal and research projects
 
-# Contacts
+## Selected projects
 
-You can reach me through the following channels:
+- [**Financial RAG Assistant**](https://github.com/riccardo-pala/financial-rag) — local application for querying PDF documents with retrieval-augmented generation.
+- [**Pricing Optimization**](https://github.com/riccardo-pala/eCommerce-Website) — dynamic pricing and product recommendation strategies using multi-armed bandits.
+- [**RecSys Challenge 2022**](https://re.public.polimi.it/handle/11311/1249548) — co-authored research on session-based fashion recommendation.
+- [**CLup — Customer Line-up**](https://github.com/riccardo-pala/CLup) — Java EE prototype for real-time and scheduled supermarket reservations.
+- [**MuSeek**](https://github.com/riccardo-pala/MuSeek) — Android marketplace and community for musicians and bands.
+- [**Industrial Defect Classification**](https://github.com/riccardo-pala/industrial-defect-classification) — steel surface defect classification with EfficientNet-B0 transfer learning.
 
-- [**Outlook**](riccardo.pala98@outlook.it)
-- [**Gmail**](riccardo.pala98@gmail.com)
-- [**LinkedIn**](https://www.linkedin.com/in/riccardo-pala/)
+## More
 
-If you would like to get in touch, please don't hesitate to reach out.
-
-Thank you for visiting my GitHub profile. I look forward to connecting with you!
-
+- [Portfolio](https://riccardo-pala.github.io/riccardo-pala-portfolio/) — available in Italian, English and Spanish
+- [LinkedIn](https://www.linkedin.com/in/riccardo-pala/)
+- [Email](mailto:riccardo.pala98@outlook.it)
