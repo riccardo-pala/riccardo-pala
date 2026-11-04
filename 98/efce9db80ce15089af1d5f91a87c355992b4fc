@@ -1,0 +1,19 @@
+README.md
+  s_40f4f51c2679ed::t_2b657029ffdfe3 5-8,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "98efce9db80ce15089af1d5f91a87c355992b4fc",
+  "prompts": {},
+  "sessions": {
+    "s_40f4f51c2679ed": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1a72e-e97c-7c80-8a8a-24737017dbce",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Riccardo Pala <r.pala@reply.it>"
+    }
+  }
+}
