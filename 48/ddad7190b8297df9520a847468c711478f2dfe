@@ -1,11 +1,17 @@
 README.md
   s_40f4f51c2679ed::t_2b657029ffdfe3 6,8
+  h_2c303d13c1af0a 5,7,9,20
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.6.16",
   "base_commit_sha": "48ddad7190b8297df9520a847468c711478f2dfe",
   "prompts": {},
+  "humans": {
+    "h_2c303d13c1af0a": {
+      "author": "Riccardo Pala <r.pala@reply.it>"
+    }
+  },
   "sessions": {
     "s_40f4f51c2679ed": {
       "agent_id": {
